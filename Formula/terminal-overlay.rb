@@ -3,7 +3,7 @@ class TerminalOverlay < Formula
   homepage "https://github.com/TrigrD3/terminal-overlay"
   url "https://github.com/TrigrD3/terminal-overlay.git",
       revision: "deb73db685c82c93aea2de38fbc3d3d9e81f4de1"
-  version "1.0.0"
+  version "1.0.1"
   license "MIT"
 
   def install
