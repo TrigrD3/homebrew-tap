@@ -1,9 +1,9 @@
 class TerminalOverlay < Formula
   desc "Zero-dependency floating desktop environment status overlay for Terminal.app"
-  homepage "https://github.com/yourusername/terminal-overlay"
+  homepage "https://github.com/TrigrD3/terminal-overlay"
   # Update URL and sha256 when you publish a release version on GitHub
-  url "file://#{Dir.pwd}/archive.tar.gz" # Placeholder for local testing
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  url "https://github.com/TrigrD3/terminal-overlay/archive/587abe6d3c6dc52fd1ddeb307e0d02f0f277c428.tar.gz"
+  sha256 "9d6d3de4b77124a67f3d1fa2bff8e08318ed28585583017fb9b6ee3b962eb161"
   version "1.0.0"
   license "MIT"
 
