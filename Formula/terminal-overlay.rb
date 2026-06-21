@@ -2,7 +2,7 @@ class TerminalOverlay < Formula
   desc "Zero-dependency floating desktop environment status overlay for Terminal.app"
   homepage "https://github.com/TrigrD3/terminal-overlay"
   url "https://github.com/TrigrD3/terminal-overlay.git",
-      revision: "02e1d82a52ac060fb47dda3d794523e8eac52a06"
+      revision: "deb73db685c82c93aea2de38fbc3d3d9e81f4de1"
   version "1.0.0"
   license "MIT"
 
