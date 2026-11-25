@@ -1,6 +1,6 @@
 cask "bartune" do
-  version "0.6.0"
-  sha256 "a5c80d66e1c16636b46c0e5bdb52f34bbf793d0cca3f228291e547b2d7f55bdc"
+  version "0.7.0"
+  sha256 "5c9ce4872dbe87156243e965cc905ed6eedaafca669bbfc102a6863eb235fbb0"
 
   url "https://github.com/TrigrD3/bartune/releases/download/v#{version}/BarTune-#{version}.dmg"
   name "BarTune"
